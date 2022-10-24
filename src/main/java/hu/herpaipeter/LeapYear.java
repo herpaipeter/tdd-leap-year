@@ -1,3 +1,5 @@
+package hu.herpaipeter;
+
 public class LeapYear {
 
     public boolean check(int year) {
